@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Course Name: $Course"
+echo "Course Name: $course"
