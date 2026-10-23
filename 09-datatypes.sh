@@ -13,6 +13,6 @@ COUNT =COUNT+1;
 
 echo "Count :: $COUNT"
 
-FRUITS = ("APPLE" "BANANA" "PAPAYA")
+FRUITS=("APPLE" "BANANA" "PAPAYA")
 
 echo "All fruits :: ${FRUITS[@]}"
