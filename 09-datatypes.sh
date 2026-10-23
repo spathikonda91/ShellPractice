@@ -16,3 +16,5 @@ echo "Count :: $COUNT"
 FRUITS=("APPLE" "BANANA" "PAPAYA")
 
 echo "All fruits :: ${FRUITS[@]}"
+
+echo "First Fruit name : ${FRUIT[0]}"
