@@ -14,5 +14,5 @@ echo "PID of the command running in background now :: $!"
 wait $!
 echo "Line number :: $LINENO"
 echo "previos command exit status : $?"
-
+echo "All args passed to the script as word : $*"
 
