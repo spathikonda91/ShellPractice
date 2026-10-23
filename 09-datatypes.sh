@@ -18,3 +18,7 @@ FRUITS=("APPLE" "BANANA" "PAPAYA")
 echo "All fruits :: ${FRUITS[@]}"
 
 echo "First Fruit name : ${FRUITS[0]}"
+
+name="Sandeep P"
+
+echo "${name}athikonda"
