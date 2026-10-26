@@ -21,6 +21,6 @@ dnf install nginx -y
 validate $? "Nginx Installation"
 
 dnf install mysql -y
-valdate $? "Mysql Installation"
+validate $? "Mysql Installation"
 
 echo "Still Proceeded .."
